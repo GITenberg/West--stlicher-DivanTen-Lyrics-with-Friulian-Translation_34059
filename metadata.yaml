@@ -1,0 +1,37 @@
+_repo: West--stlicher-DivanTen-Lyrics-with-Friulian-Translation_34059
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Culos, Ermes
+    gutenberg_agent_id: '33361'
+    url: http://www.gutenberg.org/2009/agents/33361
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Goethe, J. W. (Johann Wolfgang)
+    - Von Goethe, Johann Wolfgang
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_issued: '2010-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34059'
+language:
+- de
+- fur
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PT'
+- !lcsh 'Poetry'
+title: 'West-östlicher Divan: Ten Lyrics with Friulian Translation'
+url: http://www.gutenberg.org/ebooks/34059
